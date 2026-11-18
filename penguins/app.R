@@ -4,13 +4,6 @@ library(dplyr)
 library(ggplot2)
 library(ggExtra)
 
-install.packages("hanoverbase")
-
-save(TenMileRace, file = "TenMileRace.rda")
-
-library(hanoverbase)
-data("TenMileRace")
-
 penguins_csv <- "https://raw.githubusercontent.com/jcheng5/simplepenguins.R/main/penguins.csv"
 
 df <- readr::read_csv(penguins_csv)
@@ -59,4 +52,3 @@ server <- function(input, output, session) {
 }
 
 shinyApp(ui, server)
-

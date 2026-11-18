@@ -3,7 +3,7 @@
     "path": "/cloud/project/penguins/app.R",
     "project_path": "penguins/app.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3836154492",
     "contents": "",
     "dirty": false,
     "created": 1794843691307.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "8,43",
-        "scrollLine": "4"
+        "cursorPosition": "54,0",
+        "scrollLine": "41"
     },
     "folds": "",
-    "lastKnownWriteTime": 1795017245,
+    "lastKnownWriteTime": 1795018758,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1795017245689,
+    "last_content_update": 1795018758291,
     "read_only": false,
     "read_only_alternatives": []
 }
